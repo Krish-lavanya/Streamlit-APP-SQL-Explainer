@@ -1,0 +1,4 @@
+langchain==0.0.352
+streamlit==1.29.0
+python-dotenv==1.0.0
+sqlparse==0.4.4
